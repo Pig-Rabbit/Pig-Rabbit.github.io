@@ -1,5 +1,5 @@
 logo: # add logo name
-title: Computer-Aided Engineering
+title: Pig-Rabbit's Cloud
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -10,8 +10,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: sample.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: pig-rabbit # add banner title
+banner-desc: I like chicken # add banner description
 
 # Author settings
 author-pic: DWt_8KdU0AAnqQ0.jpg # your photo
