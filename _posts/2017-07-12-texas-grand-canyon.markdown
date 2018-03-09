@@ -9,6 +9,7 @@ tag: [Travel, Texas, Canyon]
   ?
   안뇽 한글이 써지나?
  그림이 들어가나?
+ ---
  img: test.PNG
 ![image](/assets/img/test.PNG){: width="100%" height="100%"}
  
