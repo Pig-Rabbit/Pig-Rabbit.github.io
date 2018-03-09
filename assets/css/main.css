@@ -4255,13 +4255,14 @@ cite {
 }
 
 .post_wrapper, .entry_content {
-  max-width: 90%;
+  max-width: 80%;
+  max-height: 80%;
   padding: 0 1.85rem;
   margin: 0 auto;
 }
 
 .post_content {
-  max-width: 90%;
+  max-width: 80%;
   margin: 7rem auto 7rem;
 }
 
@@ -4308,6 +4309,7 @@ cite {
 
 .post .entry_content {
   padding-bottom: 2rem;
+  vertical-align: middle;
 }
 
 .post_footer {
