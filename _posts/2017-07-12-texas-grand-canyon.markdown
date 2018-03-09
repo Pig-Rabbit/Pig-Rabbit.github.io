@@ -9,4 +9,5 @@ tag: [Travel, Texas, Canyon]
   ?
   안뇽 한글이 써지나?
  그림이 들어가나?
- ![Test Image for blog](https://github.com/Pig-Rabbit/Pig-Rabbit.github.io/assets/img/test.PNG)
+ img: test.png
+ 
