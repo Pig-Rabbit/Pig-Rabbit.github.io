@@ -4255,7 +4255,7 @@ cite {
 }
 
 .post_wrapper, .entry_content {
-  max-width: 80%;
+  max-width: 60%;
   max-height: 80%;
   padding: 0 1.85rem;
   margin: 0 auto;
